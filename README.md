@@ -1,4 +1,5 @@
 # Implementation-of-ML-algorithms
+Machine Learning practical laboratory experiments
 
 EXPERIMENT NO 1 : LINEAR REGRESSION
 
